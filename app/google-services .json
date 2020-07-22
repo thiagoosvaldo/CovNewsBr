@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "93934342295",
+    "firebase_url": "https://covnewsbr-26fcf.firebaseio.com",
+    "project_id": "covnewsbr-26fcf",
+    "storage_bucket": "covnewsbr-26fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93934342295:android:59e0a07fdd4568ade659d2",
+        "android_client_info": {
+          "package_name": "com.covi.vocidnewsbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93934342295-86r9bo0p263fa7r38gg69kghnu81rm1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSZtQ0khHaut_zxfqSU71EtOXSZ_-T90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93934342295-86r9bo0p263fa7r38gg69kghnu81rm1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8233031131244148~4668028933"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93934342295:android:56a044968d5a9a13e659d2",
+        "android_client_info": {
+          "package_name": "com.example.covnewsbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93934342295-emib92i26lcfd33913offetqtv9h55io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covnewsbr",
+            "certificate_hash": "512750b903db47c122da1427e2040955f920145f"
+          }
+        },
+        {
+          "client_id": "93934342295-86r9bo0p263fa7r38gg69kghnu81rm1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSZtQ0khHaut_zxfqSU71EtOXSZ_-T90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93934342295-86r9bo0p263fa7r38gg69kghnu81rm1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
